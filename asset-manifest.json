@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test_kyung/static/css/main.7b72f89b.css",
+    "main.js": "/test_kyung/static/js/main.f034a922.js",
+    "static/js/787.373eb9c6.chunk.js": "/test_kyung/static/js/787.373eb9c6.chunk.js",
+    "index.html": "/test_kyung/index.html",
+    "main.7b72f89b.css.map": "/test_kyung/static/css/main.7b72f89b.css.map",
+    "main.f034a922.js.map": "/test_kyung/static/js/main.f034a922.js.map",
+    "787.373eb9c6.chunk.js.map": "/test_kyung/static/js/787.373eb9c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b72f89b.css",
+    "static/js/main.f034a922.js"
+  ]
+}
